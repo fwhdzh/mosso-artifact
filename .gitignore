@@ -1,0 +1,22 @@
+# Mocket
+results/
+
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Vscode
+.vscode/
+
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target
